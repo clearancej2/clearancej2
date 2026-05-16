@@ -1,5 +1,4 @@
 - 👋 Hi welcome to README.me
-<!---
- a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<! a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes
 
